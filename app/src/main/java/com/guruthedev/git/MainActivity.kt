@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //this a branch from guru prasad
+        //this a new branch from guru prasad
     }
 }
